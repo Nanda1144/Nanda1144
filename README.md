@@ -1,109 +1,84 @@
-<!-- =========================== -->
-<!--          HERO SECTION       -->
-<!-- =========================== -->
+<!-- ===================================================== -->
+<!--                    PREMIUM HERO SECTION                -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="assets/banner.gif" width="100%" alt="Banner"/>
-
-<br><br>
-
-<img src="assets/profile.png" width="180" alt="Nanda Kishore"/>
-
-# Hi 👋, I'm Nanda Kishore Chowdam
-
-### 🚀 Full Stack Developer • Artificial Intelligence Engineer • Blockchain Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence+Student;Generative+AI+%26+LLM+Developer;Blockchain+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Solidity;Building+Scalable+Software+Solutions" />
-
-<br>
-
-<p>
-
-<a href="https://github.com/Nanda1144">
-<img src="https://img.shields.io/github/followers/Nanda1144?label=Followers&logo=github&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Nanda1144">
-<img src="https://img.shields.io/github/stars/Nanda1144?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Nanda1144&style=for-the-badge&color=blue"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Nanda%20Kishore%20Chowdam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Blockchain%20Developer&descAlignY=55"/>
 
 </div>
 
 ---
 
-# 💫 Welcome to My GitHub
+<div align="center">
 
-I'm a passionate **Full Stack Developer** and **Artificial Intelligence undergraduate** who enjoys building software that solves real-world problems.
+<img src="assets/profile.png"
+width="190"
+style="border-radius:50%;border:5px solid #4F46E5"/>
 
-My interests span across modern web development, Generative AI, Large Language Models (LLMs), Blockchain, and scalable backend systems.
+</div>
 
-I believe in continuous learning, creating impactful applications, and sharing knowledge through projects and open-source contributions.
+---
+
+<div align="center">
+
+# 👋 Hi, I'm Nanda Kishore Chowdam
+
+### 💻 Full Stack Developer | 🤖 AI Engineer | ⛓ Blockchain Developer
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Artificial+Intelligence+Student;Generative+AI+Developer;Blockchain+Developer;React+Developer;Node.js+Backend+Developer;Building+Scalable+Software;Always+Learning+Something+New🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech Student in **Computer Science & Engineering (Artificial Intelligence)**
-- 💻 Full Stack Developer specializing in **React.js, Node.js, Express.js, MongoDB, and REST APIs**
-- 🤖 Passionate about **Generative AI, Prompt Engineering, LLMs, and AI-powered Applications**
-- ⛓ Exploring **Blockchain, Solidity, Ethereum, and Web3**
-- 🌱 Always learning new technologies and building real-world software products
-- 🏆 Active participant in hackathons and technical competitions
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### 👨‍💻 Who Am I?
+
+🎓 B.Tech Student in Computer Science & Engineering (Artificial Intelligence)
+
+💻 Passionate Full Stack Developer
+
+🤖 Generative AI Enthusiast
+
+⛓ Blockchain Developer
+
+🌐 MERN Stack Developer
+
+🚀 Open Source Learner
+
+📚 Lifelong Learner
+
+💡 Love Building Real-world Applications
+
+🏆 Hackathon Enthusiast
+
+🌱 Exploring AI Agents, LangChain & Cloud Technologies
+
+<br><br><br><br><br><br><br><br>
 
 ---
 
-# 🎯 What I Build
+# 🌐 Connect With Me
 
-### 🌐 Full Stack Applications
-
-Developing scalable web applications with responsive user interfaces, secure backend APIs, authentication systems, dashboards, and cloud deployment.
-
----
-
-### 🤖 Artificial Intelligence Applications
-
-Building AI-powered applications using LLMs, Prompt Engineering, NLP, AI APIs, chatbots, recommendation systems, and automation workflows.
-
----
-
-### ⛓ Blockchain & Web3
-
-Creating decentralized applications using Solidity, Ethereum, Smart Contracts, and Web3 technologies.
-
----
-
-### 📱 Frontend Development
-
-Designing modern, responsive, and interactive user interfaces using React.js, Tailwind CSS, HTML5, CSS3, and JavaScript.
-
----
-
-### ⚙ Backend Development
-
-Developing secure REST APIs, authentication systems, database integrations, and scalable server-side applications using Node.js and Express.js.
-
----
-
-# 🌱 Currently Working On
-
-- 🤖 Generative AI & Large Language Models (LLMs)
-- 💬 Prompt Engineering
-- 🧠 AI Agents & Automation
-- 🌐 Advanced Full Stack Development
-- ⛓ Blockchain & Web3 Development
-- ☁ Cloud Deployment
-- 🚀 Production-ready Software Applications
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="mailto:nandalearner12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -121,1050 +96,70 @@ Developing secure REST APIs, authentication systems, database integrations, and 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
-
-# ⚡ Quick Highlights
-
-<table>
-<tr>
-
-<td>
-
-🎯 Full Stack Developer
-
-</td>
-
-<td>
-
-🤖 AI & LLM Enthusiast
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-⛓ Blockchain Developer
-
-</td>
-
-<td>
-
-🚀 Open Source Learner
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-💼 Multiple Internship Experience
-
-</td>
-
-<td>
-
-🏆 Hackathon Participant
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-> 💡 **"Turning ideas into intelligent software solutions that create real-world impact."**
-
----
-<!-- ========================================================= -->
-<!--                FEATURED PROJECTS                           -->
-<!-- ========================================================= -->
-
-# 🚀 Featured Projects
 
 <div align="center">
 
-### 💡 Transforming Ideas into Real-World Applications
+<img src="https://komarev.com/ghpvc/?username=Nanda1144&style=for-the-badge&color=blue"/>
 
-*"A collection of projects showcasing my journey in Full Stack Development, Artificial Intelligence, Blockchain, and Modern Web Technologies."*
+<img src="https://img.shields.io/github/followers/Nanda1144?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Nanda1144?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌐 Full Stack Development
+# ⚡ Quick Overview
 
-Building scalable, secure, and user-friendly web applications using the MERN stack and modern development practices.
+<div align="center">
 
----
+| 💼 | Information |
+|:---|:------------|
+| 🎓 Education | B.Tech CSE (Artificial Intelligence) |
+| 💻 Specialization | Full Stack Development |
+| 🤖 Interests | Generative AI, LLMs |
+| ⛓ Blockchain | Solidity, Ethereum, Web3 |
+| 🌐 Frontend | React, Tailwind CSS |
+| ⚙ Backend | Node.js, Express |
+| 🗄 Database | MongoDB, MySQL |
+| 🚀 Goal | AI Software Engineer |
 
-## 🚀 ACEM Fusion 2K26
-
-> **College Event Management Platform**
-
-<img src="assets/projects/fusion2k26.png" width="100%"/>
-
-### 📌 Overview
-
-Fusion 2K26 is a complete event management platform developed for ACEM to streamline registrations, payments, certificates, food coupons, and event administration. The platform successfully handled **3000+ users** during the event.
-
----
-
-### ✨ Key Features
-
-- 👥 Student Registration
-- 💳 Online Payment Integration
-- 🍱 Food Coupon Management
-- 📜 Certificate Generation
-- 📱 QR Code Verification
-- 🔐 Authentication & Authorization
-- 📊 Admin Dashboard
-- 📈 Analytics Dashboard
+</div>
 
 ---
 
-### 🛠 Tech Stack
+# 💡 What I Love Building
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/>
+🌐 Full Stack Applications
 
-</p>
+🤖 AI Powered Products
 
----
+⛓ Blockchain Solutions
 
-### 🌐 Links
+📱 Modern Web Applications
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://acemfusion2k26.vercel.app)
+⚙ Backend APIs
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Nanda1144)
+☁ Cloud Ready Systems
 
----
+🧠 AI Agents
 
-<br>
+🚀 Innovative Software
 
-# 🎓 Study2Skills
-
-> **AI-Powered Career Guidance Platform**
-
-<img src="assets/projects/study2skills.png" width="100%"/>
-
-### 📌 Overview
-
-Study2Skills is a career guidance platform designed to help students explore career paths, generate learning roadmaps, build resumes, practice mock interviews, and receive project recommendations.
+</div>
 
 ---
 
-### ✨ Features
+<div align="center">
 
-- 📄 Resume Builder
-- 🎯 AI Career Roadmaps
-- 💬 Mock Interview
-- 📚 Learning Resources
-- 💡 Project Suggestions
-- 👨‍🎓 Student Dashboard
-- 🔒 Authentication
+> ## 💬 *"Turning Ideas into Intelligent Software Solutions."*
 
----
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
-
-</p>
-
----
-
-### 🌐 Links
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://study2skills.vercel.app)
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Nanda1144)
-
----
-
-<br>
-
-# 🏗 Brundavan Constructions
-
-> **Business Website**
-
-<img src="assets/projects/brundavan.png" width="100%"/>
-
-### Features
-
-- Responsive UI
-- Service Showcase
-- Contact Forms
-- Modern Design
-- SEO Friendly
-
-### Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-</p>
-
----
-
-# 🤖 Artificial Intelligence & Generative AI
-
-Leveraging AI, LLMs, Prompt Engineering, and intelligent automation to solve real-world challenges.
-
----
-
-## 🥗 NutriVedha
-
-> **AI Healthcare Assistant**
-
-<img src="assets/projects/nutrivedha.png" width="100%"/>
-
-### 📌 Overview
-
-NutriVedha is an AI-powered healthcare assistant that provides personalized nutrition guidance, multilingual support, AI chatbot interaction, and voice-based health assistance.
-
----
-
-### ✨ Features
-
-- 🤖 AI Chatbot
-- 🎤 Voice Assistant
-- 🌍 Multilingual Support
-- 🥗 Personalized Diet Plans
-- 👨‍⚕️ Teleconsultation
-- 🍲 Recipe Recommendation
-- 🧠 AI Recommendation Engine
-
----
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,python"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Generative_AI-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🌐 Links
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://nutrivedha.vercel.app)
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Nanda1144)
-
----
-
-## 💻 Code Debugger Assistant
-
-> **AI Code Analysis Tool**
-
-### Features
-
-- 🔍 Detect Bugs
-- ⚡ Suggest Fixes
-- 📖 Explain Code
-- 🤖 AI-Assisted Debugging
-
-### Tech Stack
-
-JavaScript • AI APIs
-
----
-
-## 💬 Customer Support Chatbot
-
-### Features
-
-- AI Conversation
-- FAQ Automation
-- Customer Support
-- Real-Time Responses
-
----
-
-## 🌐 FAQ Bot for Website
-
-### Features
-
-- Website Integration
-- Instant FAQ Response
-- AI Assistance
-- Custom Knowledge Base
-
----
-
-> 🚀 **"Building intelligent applications that combine modern web technologies with the power of Artificial Intelligence."**
-
----<!-- ========================================================= -->
-<!--              BLOCKCHAIN & WEB3 PROJECTS                    -->
-<!-- ========================================================= -->
-
-# ⛓ Blockchain & Web3 Projects
-
-Building decentralized applications using **Solidity**, **Ethereum**, and **Web3** technologies.
-
----
-
-## 💰 DeFi Lending Platform
-
-> **Decentralized Lending & Borrowing Platform**
-
-<img src="assets/projects/defi.png" width="100%" alt="DeFi Lending Platform"/>
-
-### 📌 Overview
-
-A decentralized finance (DeFi) platform that allows users to lend and borrow cryptocurrency without intermediaries. Smart contracts automate loan creation, collateral management, repayments, and penalties.
-
----
-
-### ✨ Key Features
-
-- 🔐 Smart Contract Based Lending
-- 💳 Collateral Locking
-- 💸 Loan Creation & Approval
-- ⏰ Automatic Repayment Tracking
-- 📊 Transaction Transparency
-- 👛 MetaMask Wallet Integration
-- 🔒 Secure Blockchain Transactions
-
----
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=solidity,react"/>
-
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
-
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🌐 Project Links
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Nanda1144/Defi-Lending-Platform-)
-
----
-
-# 🎨 Frontend Development
-
-Creating responsive, modern, and user-friendly web experiences.
-
----
-
-## 🌐 Personal Portfolio
-
-<img src="assets/projects/portfolio.png" width="100%" alt="Portfolio"/>
-
-### Features
-
-- 👨‍💻 Professional Portfolio
-- 📱 Fully Responsive
-- 🎨 Modern UI/UX
-- 📂 Project Showcase
-- 📄 Resume Section
-- 📬 Contact Form
-
-### Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-</p>
-
-[![Live Website](https://img.shields.io/badge/Live-Portfolio-success?style=for-the-badge)](https://nandakishorec.vercel.app)
-
----
-
-## 🎛 Portfolio Admin Panel
-
-### Features
-
-- Content Management
-- Dynamic Project Updates
-- Blog Management
-- Dashboard
-- Authentication
-
-### Tech Stack
-
-JavaScript • HTML • CSS
-
----
-
-## 🎓 Portfolio Template
-
-### Features
-
-- Reusable Components
-- Responsive Layout
-- Clean UI
-- Easy Customization
-
----
-
-## 📝 Quizfy Website
-
-### Features
-
-- Quiz Interface
-- Score Tracking
-- Dynamic Questions
-- Responsive Design
-
----
-
-## 🔢 Counter Application
-
-### Features
-
-- Interactive Counter
-- JavaScript DOM
-- Responsive UI
-
----
-
-# ⚙ Backend & API Development
-
-Backend applications focused on secure APIs and scalable architecture.
-
----
-
-## 📊 Market MVP v2
-
-### Features
-
-- Product Management
-- User Authentication
-- REST API Integration
-- Dashboard
-- Database Connectivity
-
-### Tech Stack
-
-Node.js • MongoDB • Express
-
----
-
-## 🎓 ACEM Mentor-Mentee Platform
-
-<img src="assets/projects/mentor.png" width="100%" alt="Mentor-Mentee"/>
-
-### Features
-
-- Student Management
-- Mentor Allocation
-- Attendance
-- Performance Tracking
-- Reports
-
-### Tech Stack
-
-React • Node.js • MongoDB
-
----
-
-## ❤️ Golf Charity Subscription Platform
-
-### Features
-
-- Subscription Management
-- Donations
-- User Dashboard
-- Event Registration
-
-### Tech Stack
-
-Node.js • JavaScript
-
----
-
-# 🏆 Hackathon Projects
-
-Projects developed during hackathons and technical events.
-
----
-
-## 🚀 Fusion 2K26
-
-🏅 College Mega Event Platform
-
-✔ Registration
-
-✔ Payments
-
-✔ QR Verification
-
-✔ Certificates
-
-✔ Food Coupons
-
-✔ Admin Dashboard
-
----
-
-## 🤖 NutriVedha
-
-🏅 AI Healthcare Solution
-
-✔ AI Chatbot
-
-✔ Voice Assistant
-
-✔ Diet Planning
-
-✔ AI Recommendation
-
----
-
-## 🎓 Study2Skills
-
-🏅 Career Guidance Platform
-
-✔ Resume Builder
-
-✔ AI Roadmaps
-
-✔ Mock Interviews
-
----
-
-## 💰 DeFi Lending Platform
-
-🏅 Blockchain Solution
-
-✔ Smart Contracts
-
-✔ Ethereum
-
-✔ Web3
-
----
-
-# 📂 More Projects
-
-<details>
-
-<summary>🌐 View Additional Projects</summary>
-
-### 📌 Academic Projects
-
-- Frontend Project
-- Portfolio Template
-- Counter App
-- Quizfy Website
-
----
-
-### 🤖 AI Projects
-
-- FAQ Bot
-- Customer Support Chatbot
-- Code Debugger Assistant
-
----
-
-### 🌐 Business Websites
-
-- Brundavan Constructions
-
----
-
-### 🧪 Experimental Projects
-
-- UI Components
-- JavaScript Practice
-- Responsive Layouts
-
-</details>
-
----
-
-# 📊 Project Statistics
-
-| Domain | Projects |
-|---------|---------:|
-| 🌐 Full Stack | 6+ |
-| 🤖 AI & LLM | 4+ |
-| ⛓ Blockchain | 1+ |
-| 🎨 Frontend | 8+ |
-| ⚙ Backend | 4+ |
-| 🏆 Hackathon | 4+ |
-
----
-
-# 🎯 Development Philosophy
-
-> **"Every project is an opportunity to learn, innovate, and solve meaningful problems. My goal is to build software that is scalable, impactful, and user-centric."**
-
----
-
-<!-- ========================================================= -->
-<!--               PROFESSIONAL JOURNEY                         -->
-<!-- ========================================================= -->
-
-# 👨‍💻 Professional Journey
-
-> *"Building software isn't just about writing code—it's about solving real-world problems through technology, continuous learning, and innovation."*
-
-I am an enthusiastic **Computer Science & Engineering (Artificial Intelligence)** student with hands-on experience in **Full Stack Development, Artificial Intelligence, Generative AI, Blockchain, and Web3**.
-
-Throughout my academic journey, I have actively participated in internships, hackathons, technical communities, and real-world software development projects that have strengthened both my technical and problem-solving skills.
-
----
-
-# 💼 Professional Experience
-
-<table>
-
-<tr>
-<td width="15%">
-
-📅
-
-</td>
-
-<td>
-
-## 🤖 Generative AI Intern
-
-### SkillDzire
-
-**April 2026 – Present**
-
-**Responsibilities**
-
-- Developing AI-powered applications using Large Language Models (LLMs)
-- Exploring Prompt Engineering techniques
-- Learning AI Agent workflows
-- Building practical AI solutions
-- Understanding Retrieval-Augmented Generation (RAG)
-- Working with AI APIs and automation workflows
-
-**Skills**
-
-`Generative AI`
-
-`LLMs`
-
-`Prompt Engineering`
-
-`Python`
-
-`AI APIs`
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-📅
-
-</td>
-
-<td>
-
-## ⛓ Blockchain Developer Intern
-
-### Alpha Innovations
-
-**Jan 2026 – Mar 2026**
-
-**Responsibilities**
-
-- Learned Blockchain Architecture
-- Developed Smart Contracts
-- Worked with Solidity
-- Understood Web3 Development
-- Explored Ethereum ecosystem
-
-**Skills**
-
-`Blockchain`
-
-`Solidity`
-
-`Ethereum`
-
-`Web3`
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-📅
-
-</td>
-
-<td>
-
-## 🌐 Frontend Developer Intern
-
-### Snestron Systems Pvt. Ltd.
-
-**Jul 2025 – Sep 2025**
-
-**Responsibilities**
-
-- Built Responsive Websites
-- Improved UI Performance
-- Created reusable components
-- Optimized website responsiveness
-
-**Skills**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-📅
-
-</td>
-
-<td>
-
-## 💻 Web Development Intern
-
-### Cognifyz Technologies
-
-**Mar 2025 – Apr 2025**
-
-**Responsibilities**
-
-- Developed responsive web pages
-- Worked on frontend projects
-- Learned industry development workflow
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎓 Education
-
-<table>
-
-<tr>
-
-<td width="20%">
-
-🎓
-
-</td>
-
-<td>
-
-## Bachelor of Technology
-
-### Computer Science & Engineering (Artificial Intelligence)
-
-🏫 Aditya College of Engineering, Madanapalle
-
-📅 2023 – Present
-
-📊 Current Percentage
-
-**86.02%**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🏫
-
-</td>
-
-<td>
-
-## Intermediate (MPC)
-
-Krishna Reddy Siddhartha Junior College
-
-**87.4%**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🏫
-
-</td>
-
-<td>
-
-## Secondary School
-
-Brilliant English Medium High School
-
-**99%**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 Achievements
-
-### 🥇 Academic
-
-- Department Topper (First Year B.Tech)
-
----
-
-### 🏅 Competitions
-
-- 🥇 1st Prize – Paper Presentation (Sai Sankethika 2K25)
-
-- 🚀 Semi-finalist – Amaravati Quantum Valley Hackathon
-
-- 🏆 Coordinator – HACKSPRINT (12-Hour National Hackathon)
-
----
-
-### 🌟 Leadership
-
-- Campus Student Ambassador – MyGrow
-
-- Technical Event Coordinator
-
----
-
-# 🥇 Hackathons
-
-| Hackathon | Role | Result |
-|------------|------|--------|
-| HACKSPRINT | Coordinator | Successfully Organized |
-| AQVH 2K25 | Participant | Semi-finalist |
-| Smart India Hackathon | Participant | Active Contributor |
-
----
-
-# 📜 Certifications
-
-## 🤖 Artificial Intelligence
-
-- ✅ Introduction to Large Language Models
-
-- ✅ Responsible AI – Google Cloud
-
-- ✅ Prompt Design in Vertex AI
-
-- ✅ Introduction to Generative AI
-
----
-
-## 💻 Development
-
-- ✅ Edunet Foundation (IR 4.0)
-
-- ✅ Campus Student Ambassador – MyGrow
-
----
-
-# 🌱 Current Learning
-
-Currently exploring modern software technologies:
-
-- 🤖 AI Agents
-
-- 🧠 Large Language Models
-
-- 📚 LangChain
-
-- 🔥 LangGraph
-
-- 💬 Prompt Engineering
-
-- ☁ Cloud Computing
-
-- 🐳 Docker
-
-- ☸ Kubernetes
-
-- ⚡ System Design
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js"/>
-
-</p>
-
----
-
-## 🎨 Frontend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-
-</p>
-
----
-
-## ⚙ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
----
-
-## 🤖 Artificial Intelligence
-
-<p>
-
-<img src="https://img.shields.io/badge/Generative%20AI-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0078D7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-00A896?style=for-the-badge"/>
-
-</p>
-
----
-
-## ⛓ Blockchain
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=solidity"/>
-
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
-
-<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
-
-</p>
-
----
-
-## ☁ Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-
-</p>
-
----
-
-# 📈 Career Roadmap
-
-```text
-2023
-│
-├── Started B.Tech (AI)
-│
-├── Learning Web Development
-│
-└── Built Frontend Projects
-│
-2024
-│
-├── Full Stack Development
-│
-├── React Ecosystem
-│
-└── MongoDB
-│
-2025
-│
-├── Cognifyz Internship
-│
-├── Snestron Internship
-│
-├── Fusion2K26
-│
-└── Study2Skills
-│
-2026
-│
-├── Blockchain Internship
-│
-├── Generative AI Internship
-│
-├── NutriVedha
-│
-└── DeFi Lending Platform
-│
-Future
-│
-├── AI Engineer
-├── Software Engineer
-├── Open Source Contributor
-└── Startup Founder
-```
+</div>
 
 ---
 <!-- ========================================================= -->
@@ -1335,3 +330,1023 @@ Every project I develop is an opportunity to improve my technical skills, explor
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together.;Happy+Coding!+🚀"/>
 
 </div>
+
+<!-- ===================================================== -->
+<!--              PROFESSIONAL JOURNEY                      -->
+<!-- ===================================================== -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Professional Journey
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=00C6FF&center=true&vCenter=true&width=800&lines=Learning+Never+Stops...;Building+Scalable+Applications;Exploring+Artificial+Intelligence;Developing+Blockchain+Solutions;Creating+Impactful+Software"/>
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+<div align="center">
+
+```text
+             PROFESSIONAL EXPERIENCE
+
+         ┌─────────────────────────────┐
+         │     SkillDzire (Current)    │
+         │    Generative AI Intern     │
+         └────────────┬────────────────┘
+                      │
+                      ▼
+         ┌─────────────────────────────┐
+         │      Alpha Innovations      │
+         │ Blockchain Developer Intern │
+         └────────────┬────────────────┘
+                      │
+                      ▼
+         ┌─────────────────────────────┐
+         │ Snestron Systems Pvt. Ltd.  │
+         │  Frontend Developer Intern  │
+         └────────────┬────────────────┘
+                      │
+                      ▼
+         ┌─────────────────────────────┐
+         │    Cognifyz Technologies    │
+         │   Web Development Intern    │
+         └─────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🤖 Generative AI Intern
+
+### 🏢 SkillDzire
+
+🗓 **2026 – Present**
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+**Working On**
+
+- 🤖 Large Language Models
+
+- 💬 Prompt Engineering
+
+- 🧠 AI Agents
+
+- 🔥 LangChain
+
+- 📚 Retrieval Augmented Generation
+
+- ⚡ AI Automation
+
+---
+
+## ⛓ Blockchain Developer Intern
+
+### 🏢 Alpha Innovations
+
+🗓 2026
+
+<img src="https://skillicons.dev/icons?i=solidity"/>
+
+Working With
+
+- Solidity
+
+- Ethereum
+
+- Smart Contracts
+
+- Web3
+
+- Blockchain Security
+
+---
+
+## 🌐 Frontend Developer Intern
+
+### 🏢 Snestron Systems
+
+🗓 2025
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+Worked On
+
+- Responsive UI
+
+- JavaScript
+
+- Web Design
+
+- Performance Optimization
+
+---
+
+## 💻 Web Development Intern
+
+### 🏢 Cognifyz Technologies
+
+🗓 2025
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+Worked On
+
+- Frontend Projects
+
+- Responsive Design
+
+- Landing Pages
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=4CAF50&center=true&width=700&lines=Education+Journey"/>
+
+</div>
+
+```text
+🏫 B.Tech CSE (Artificial Intelligence)
+2023 ─────────────── Present
+
+↓
+
+Intermediate (MPC)
+
+↓
+
+Secondary Education
+```
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nanda1144&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</div>
+
+✅ Department Topper
+
+🏅 Paper Presentation Winner
+
+🚀 AQVH Semi-finalist
+
+🎯 HackSprint Coordinator
+
+🌟 Campus Ambassador
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=FFA500&center=true&width=700&lines=Professional+Certifications"/>
+
+</div>
+
+### 🤖 Artificial Intelligence
+
+✅ Introduction to LLMs
+
+✅ Responsible AI
+
+✅ Vertex AI Prompt Design
+
+✅ Generative AI
+
+---
+
+### 💻 Development
+
+✅ Full Stack Development
+
+✅ Blockchain
+
+✅ IR 4.0
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=900&color=00E676&center=true&width=700&lines=Always+Learning+New+Technologies"/>
+
+</div>
+
+```text
+AI Agents          ██████████░░░░
+
+LangChain          █████████░░░░░
+
+LangGraph          ███████░░░░░░░
+
+Docker             ██████░░░░░░░░
+
+Kubernetes         ████░░░░░░░░░░
+
+AWS                ███░░░░░░░░░░░
+
+System Design      ███████░░░░░░░
+```
+
+---
+
+# ⚙ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,bootstrap,git,github,vercel,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Career Roadmap
+
+<div align="center">
+
+```text
+Frontend Developer
+        │
+        ▼
+Full Stack Developer
+        │
+        ▼
+Blockchain Developer
+        │
+        ▼
+Generative AI Engineer
+        │
+        ▼
+Software Engineer
+        │
+        ▼
+AI Solutions Architect
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=7F00FF&center=true&width=700&lines=Building+Today...;Innovating+Tomorrow...;Learning+Forever..."/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--                FEATURED PROJECTS                       -->
+<!-- ===================================================== -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Transforming+Ideas+Into+Software;Building+Scalable+Applications;Full+Stack+%7C+Artificial+Intelligence+%7C+Blockchain"/>
+
+</div>
+
+---
+
+<div align="center">
+
+| 🌐 Full Stack | 🤖 AI | ⛓ Blockchain | 🎨 Frontend | ⚙ Backend |
+|:-------------:|:------:|:------------:|:-----------:|:---------:|
+| 6+ Projects | 5+ Projects | 2+ Projects | 10+ Projects | 5+ Projects |
+
+</div>
+
+---
+
+# 🌐 Full Stack Development
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=900&color=4CAF50&center=true&width=700&lines=Building+Scalable+Full+Stack+Applications"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+## 🚀 ACEM Fusion 2K26 ⭐ Featured
+
+</summary>
+
+### 📌 Description
+
+A complete **Event Management Platform** developed for ACEM to manage registrations, payments, QR verification, certificates, food coupons, and administration for **3000+ participants**.
+
+### ✨ Features
+
+- 👤 User Authentication
+- 💳 Payment Integration
+- 📜 Certificate Generation
+- 📱 QR Verification
+- 🍱 Food Coupons
+- 📊 Admin Dashboard
+- 📈 Analytics
+- 🔒 Secure Database
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+### 🔗 Repository
+
+```text
+github.com/Nanda1144/ACEM_FUSION_2K26
+```
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🎓 Study2Skills ⭐ Featured
+
+</summary>
+
+### 📌 Description
+
+AI-powered Career Guidance Platform helping students with roadmaps, resume building, interview preparation, project recommendations, and career planning.
+
+### ✨ Features
+
+- 📄 Resume Builder
+- 🤖 AI Career Guidance
+- 🎯 Learning Roadmaps
+- 💬 Mock Interviews
+- 📚 Learning Resources
+- 📈 Dashboard
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+
+### 🔗 Repository
+
+```text
+github.com/Nanda1144/study2skills
+```
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🏗 Brundavan Constructions
+
+</summary>
+
+### 📌 Description
+
+A modern responsive business website developed for a construction company with service showcase and inquiry management.
+
+### Features
+
+- Responsive UI
+
+- Modern Design
+
+- Contact Forms
+
+- SEO Friendly
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🛒 Market MVP v2
+
+</summary>
+
+### Features
+
+- Product Management
+
+- Authentication
+
+- REST APIs
+
+- Admin Dashboard
+
+- Database Integration
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
+
+</details>
+
+---
+
+# 🤖 Artificial Intelligence & Generative AI
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=FF9800&center=true&width=800&lines=Creating+Intelligent+Applications;Powered+by+LLMs+%26+Generative+AI"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+## 🥗 NutriVedha ⭐ Featured
+
+</summary>
+
+### 📌 Description
+
+AI-powered healthcare assistant providing personalized diet planning, multilingual support, AI chatbot, and voice interaction.
+
+### ✨ Features
+
+- 🤖 AI Chatbot
+
+- 🎤 Voice Assistant
+
+- 🌍 Multilingual Support
+
+- 🥗 Personalized Diet Plans
+
+- 👨‍⚕️ Health Recommendations
+
+- 🍲 Recipe Suggestions
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,python"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 💻 AI Code Debugger Assistant
+
+</summary>
+
+### Features
+
+- 🔍 Code Analysis
+
+- 🛠 Bug Detection
+
+- 💡 AI Suggestions
+
+- ⚡ Smart Debugging
+
+### Tech Stack
+
+JavaScript
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 💬 Customer Support Chatbot
+
+</summary>
+
+### Features
+
+- AI Conversation
+
+- Customer Support
+
+- FAQ Automation
+
+- Real-time Responses
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🌐 FAQ Bot for Website
+
+</summary>
+
+### Features
+
+- Website Integration
+
+- AI Responses
+
+- Knowledge Base
+
+- Instant Answers
+
+</details>
+
+---
+
+# 📈 Project Highlights
+
+<div align="center">
+
+| Achievement | Value |
+|-------------|------:|
+| 🚀 Total Projects | 25+ |
+| 🌐 Full Stack | 6+ |
+| 🤖 AI Applications | 5+ |
+| ⛓ Blockchain | 2+ |
+| 🎨 Frontend | 10+ |
+| ⚙ Backend | 5+ |
+| 🏆 Hackathon Projects | 4+ |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00E676&center=true&width=700&lines=Building+Software+That+Makes+an+Impact;Always+Learning+•+Always+Building"/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--         BLOCKCHAIN • FRONTEND • BACKEND PROJECTS      -->
+<!-- ===================================================== -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Blockchain & Web3
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=850&lines=Decentralized+Applications;Smart+Contracts;Ethereum+%7C+Solidity+%7C+Web3"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+## ⛓️ DeFi Lending Platform ⭐ Featured
+
+</summary>
+
+### 📌 Overview
+
+A decentralized lending protocol enabling users to lend and borrow digital assets securely through Ethereum smart contracts without intermediaries.
+
+---
+
+### ✨ Key Features
+
+- 💰 Crypto Lending
+- 💳 Borrowing System
+- 🔐 Smart Contracts
+- 👛 Wallet Integration
+- 📊 Transaction History
+- ⚡ Ethereum Network
+- 🛡 Secure Asset Management
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=solidity,react"/>
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
+
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🔗 Repository
+
+```text
+github.com/Nanda1144/Defi-Lending-Platform-
+```
+
+</details>
+
+---
+
+# 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=3498DB&center=true&width=850&lines=Creating+Beautiful+User+Interfaces;Responsive+Web+Applications;Modern+Frontend+Development"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+## 🌐 Personal Portfolio ⭐ Featured
+
+</summary>
+
+### 📌 Overview
+
+A modern developer portfolio showcasing my professional journey, technical expertise, achievements, certifications, and project portfolio.
+
+### ✨ Features
+
+- 👨‍💻 About Me
+- 🚀 Projects Showcase
+- 📜 Certifications
+- 🏆 Achievements
+- 📱 Responsive Design
+- 🌙 Modern UI
+- 📬 Contact Form
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,js"/>
+
+### 🔗 Repository
+
+```text
+github.com/Nanda1144/nandakishorec
+```
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🛠 Portfolio Admin Panel
+
+</summary>
+
+### Features
+
+- Dynamic Content Management
+- Project Management
+- Authentication
+- Dashboard
+- Responsive Interface
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,nodejs"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 📄 Portfolio Template
+
+</summary>
+
+### Features
+
+- Reusable Components
+- Responsive Layout
+- Easy Customization
+- Clean Design
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🧠 Quizfy Website
+
+</summary>
+
+### Features
+
+- Quiz Engine
+- Score Management
+- Dynamic Questions
+- Responsive Interface
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🔢 Counter Application
+
+</summary>
+
+### Features
+
+- Interactive Counter
+- DOM Manipulation
+- Responsive UI
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</details>
+
+---
+
+# ⚙ Backend Development
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2ECC71&center=true&width=850&lines=Scalable+Backend+Systems;REST+APIs;Secure+Server+Applications"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+## 📊 Market MVP v2
+
+</summary>
+
+### 📌 Overview
+
+Backend-driven marketplace application implementing scalable APIs, user authentication, product management, and dashboard functionalities.
+
+### ✨ Features
+
+- User Authentication
+- Product APIs
+- Dashboard
+- Database Integration
+- REST Architecture
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🎓 ACEM Mentor-Mentee Platform
+
+</summary>
+
+### Features
+
+- Mentor Allocation
+- Student Dashboard
+- Attendance
+- Performance Tracking
+- Reports
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## ❤️ Golf Charity Subscription Platform
+
+</summary>
+
+### Features
+
+- Subscription Management
+- Charity Events
+- Donations
+- Dashboard
+- Authentication
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
+
+</details>
+
+---
+
+# 🏆 Hackathon & Innovation Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=F39C12&center=true&width=850&lines=Hackathons+%7C+Innovation+%7C+Problem+Solving"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+## 🚀 Fusion2K26
+
+</summary>
+
+- National-Level College Event Platform
+- Registration Management
+- Payment Integration
+- QR Verification
+- Certificate Generation
+- Admin Dashboard
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🥗 NutriVedha
+
+</summary>
+
+- AI Healthcare Assistant
+- Personalized Diet Planning
+- Voice Assistant
+- AI Chatbot
+- Recommendation Engine
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🎓 Study2Skills
+
+</summary>
+
+- Career Guidance Platform
+- Resume Builder
+- AI Roadmaps
+- Interview Preparation
+- Learning Resources
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## ⛓ DeFi Lending Platform
+
+</summary>
+
+- Smart Contracts
+- Ethereum
+- Lending Protocol
+- Blockchain Security
+
+</details>
+
+---
+
+# 📂 Additional Projects
+
+<details>
+
+<summary>📁 Click to View More Projects</summary>
+
+### 🌐 Full Stack
+
+- Brundavan Constructions
+- Market MVP v2
+- Mentor-Mentee Platform
+
+---
+
+### 🤖 Artificial Intelligence
+
+- Customer Support Chatbot
+- FAQ Bot
+- Code Debugger Assistant
+
+---
+
+### 🎨 Frontend
+
+- Portfolio Template
+- Counter App
+- Quizfy Website
+- Frontend Practice Projects
+
+---
+
+### ⚙ Backend
+
+- Authentication APIs
+- Dashboard Systems
+- CRUD Applications
+
+</details>
+
+---
+
+# 📊 Project Portfolio Overview
+
+<div align="center">
+
+| Category | Projects |
+|:---------|:--------:|
+| 🌐 Full Stack | **6+** |
+| 🤖 Artificial Intelligence | **5+** |
+| ⛓ Blockchain | **2+** |
+| 🎨 Frontend | **10+** |
+| ⚙ Backend | **5+** |
+| 🏆 Hackathon Projects | **4+** |
+| 💻 Total Projects | **25+** |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C6FF&center=true&width=800&lines=Building+Tomorrow's+Technology;Always+Learning+•+Always+Creating;Turning+Ideas+Into+Reality+🚀"/>
+
+</div>
+
+---
