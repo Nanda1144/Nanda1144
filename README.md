@@ -1,6 +1,4 @@
-Here is the complete code for your `README.md` file. You can simply copy this and paste it directly into your GitHub profile:
 
-```markdown
 <div align="center">
 
 # Hi, I'm Nanda Kishore C 👋
@@ -133,4 +131,4 @@ I love building products that solve real-world problems. Here is a breakdown of 
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-```
+
