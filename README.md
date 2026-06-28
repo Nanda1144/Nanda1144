@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Nanda%20Kishore%20Chowdam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20LLM's%20Engineer%20|%20Blockchain%20Developer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Nanda%20Kishore%20Chowdam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20LLM%20Engineer%20|%20Blockchain%20Developer&descAlignY=55"/>
 
 </div>
 
