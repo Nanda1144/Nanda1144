@@ -15,7 +15,7 @@
 
 # 👋 Hi, I'm Nanda Kishore Chowdam
 
-### 💻 Full Stack Developer | 🤖 AI Engineer | ⛓ Blockchain Developer
+### 💻 Full Stack Developer | 🤖 AI & LLM's Engineer | ⛓ Blockchain Developer
 
 </div>
 
@@ -50,63 +50,7 @@
 🌱 Exploring AI Agents, LangChain & Cloud Technologies
 
 ---
-<!-- ===================================================== -->
-<!--                  🚀 OVERVIEW                           -->
-<!-- ===================================================== -->
 
-# 🚀 Overview
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&duration=3500&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=Hi%2C+I'm+Nanda+Kishore+C+👋;Full+Stack+Developer+%7C+AI+Engineer+%7C+Blockchain+Developer;Building+Scalable+Web+Applications+with+Modern+Technologies;Passionate+about+Generative+AI%2C+LLMs%2C+and+AI+Agents;Creating+Secure+Blockchain+Applications+using+Solidity+and+Web3;Experienced+with+React%2C+Node.js%2C+Express%2C+MongoDB;Open+Source+Contributor+and+Hackathon+Enthusiast;Always+Learning+•+Always+Building+•+Always+Innovating+🚀"/>
-
-</div>
-
----
-
-<div align="center">
-
-| 💼 Role | 🎓 Education | 🚀 Experience | 💡 Interests |
-|:--------|:------------|:-------------|:-------------|
-| Full Stack Developer | B.Tech CSE (AI) | AI • Full Stack • Blockchain | LLMs • AI Agents • Cloud |
-
-</div>
-
----
-
-## 💡 Professional Summary
-
-> 🚀 Passionate Full Stack Developer with expertise in building scalable web applications using React, Node.js, Express, and MongoDB.
-
-> 🤖 Exploring the future of Artificial Intelligence through Large Language Models (LLMs), Prompt Engineering, RAG, LangChain, and AI Agents.
-
-> ⛓️ Hands-on experience in Blockchain development using Solidity, Ethereum, and Web3 technologies.
-
-> 🏆 Active participant in hackathons, technical communities, and open-source projects, continuously building innovative software solutions.
-
-> 🌱 Currently focused on developing intelligent applications that combine Full Stack Development, AI, and Blockchain into real-world products.
-
----
-
-<div align="center">
-
-```text
-> Initializing Developer Profile...
-
-✔ Loading Full Stack Skills...
-✔ Loading AI Knowledge...
-✔ Loading Blockchain Experience...
-✔ Loading Open Source Projects...
-✔ Loading Hackathon Achievements...
-✔ Loading GitHub Statistics...
-
-Profile Successfully Loaded 🚀
-```
-
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFAA&center=true&width=950&lines=>+Initializing+Developer+Profile...;>+Loading+Projects...;>+Loading+AI+Skills...;>+Loading+Blockchain+Experience...;>+Loading+Open+Source+Contributions...;>+Welcome+to+My+GitHub+Profile!+🚀"/>
-
----
 
 # ⚡ Quick Overview
 
