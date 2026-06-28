@@ -306,11 +306,6 @@ Secondary Education
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nanda1144&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
 
 ✅ Department Topper
 
@@ -628,19 +623,6 @@ github.com/Nanda1144/study2skills
 
 ---
 
-<details>
-
-<summary>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&color=00E676&center=true&width=700&lines=Click+on+any+project+to+view+its+details;Always+Building+•+Always+Learning+🚀"/>
-
-</div>
-
----
 <!-- ===================================================== -->
 <!--         BLOCKCHAIN • FRONTEND • BACKEND PROJECTS      -->
 <!-- ===================================================== -->
@@ -1164,7 +1146,6 @@ Backend-driven marketplace application implementing scalable APIs, user authenti
 
 ### 🚀 *Code • Learn • Build • Innovate • Share*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together.;Happy+Coding!+🚀"/>
 
 </div>
 
