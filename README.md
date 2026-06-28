@@ -15,7 +15,7 @@
 
 # 👋 Hi, I'm Nanda Kishore Chowdam
 
-### 💻 Full Stack Developer | 🤖 AI & LLM's Engineer | ⛓ Blockchain Developer
+### 💻 Full Stack Developer | 🤖 AI/ML & LLM's Engineer | ⛓ Blockchain Developer
 
 </div>
 
