@@ -1,134 +1,196 @@
-
 <div align="center">
 
-# Hi, I'm Nanda Kishore C 👋
+# Hi 👋, I'm Nanda Kishore Chowdam
 
-### Full Stack Developer | AI & LLMs Enthusiast | Artificial Intelligence Student
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence+Student;Generative+AI+%26+LLM+Developer;Blockchain+%26+Web3+Enthusiast;Building+Scalable+Software+Solutions" />
 
-Welcome to my GitHub profile! I am a passionate developer bridging the gap between full-stack web development, Artificial Intelligence, and Blockchain technologies.
+### 🚀 Full Stack Developer | AI & LLM Engineer | Blockchain Developer | B.Tech (Artificial Intelligence)
+
+<img src="https://komarev.com/ghpvc/?username=Nanda1144&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-*   **Full Stack Expertise:** I specialize in building scalable and responsive web applications using React.js, Node.js, and MongoDB, delivering complete solutions from front to back.
-*   **AI & Data Science:** Deeply interested in Generative AI, I actively explore prompt engineering, NLP fundamentals, and the integration of LLMs into real-world applications.
-*   **Blockchain & Web3:** I have practical experience developing smart contracts with Solidity and building decentralized applications like DeFi Lending Platforms.
-*   **Innovative Problem Solver:** Dedicated to crafting impactful software products, demonstrated by platforms like NutriVedha (an AI-based diet app) and Fusion2k26 (a large-scale event management system).
+I'm a passionate **Full Stack Developer** and **Artificial Intelligence undergraduate** dedicated to building intelligent, scalable, and user-centric software solutions.
 
----
+My expertise spans across **Full Stack Development, Generative AI, Large Language Models (LLMs), Blockchain, and Web3**, with a strong interest in solving real-world problems through technology.
 
-## 📂 Project Portfolio
-
-I love building products that solve real-world problems. Here is a breakdown of my projects across various domains:
-
-### 🤖 Artificial Intelligence & Generative AI
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[NutriVedha](https://github.com/Nanda1144/NutriVedha)** | AI-based web application with chatbot, voice assistant, and multilingual support for personalized diet plans. | TypeScript / React / Python / AI APIs |
-| **[Code Debugger Assistant](https://github.com/Nanda1144/Code_debuger_Assistant)** | An intelligent coding assistant for real-time debugging and code correction. | JavaScript |
-| **[FAQ Bot for Website](https://github.com/Nanda1144/FAQ_Bot_for_website)** | Automated FAQ bot designed to seamlessly integrate into websites for rapid support. | JavaScript |
-| **[Customer Support Chatbot](https://github.com/Nanda1144/Customer_support_chatbot)** | Interactive chatbot interface for handling customer inquiries. | JavaScript |
-
-### ⛓️ Blockchain & Web3
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[DeFi Lending Platform](https://github.com/Nanda1144/Defi-Lending-Platform-)** | Decentralized lending protocol that acts as an intermediary for borrowers/lenders using smart contracts. | TypeScript / Solidity / React.js |
-
-### 🌐 Full-Stack Web Applications
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Study2Skills](https://github.com/Nanda1144/study2skills)** | Full-stack career guidance platform with job roadmaps, mock interviews, and resume building. | TypeScript / React / MongoDB |
-| **[ACEM Fusion 2K26](https://github.com/Nanda1144/ACEM_FUSION_2K26)** | Web platform to manage payments, registrations, certificates, and event operations for 3000+ users. | JavaScript / Node.js / MongoDB |
-| **[Market MVP v2](https://github.com/Nanda1144/market_mvp_v2)** | Minimum viable product platform for an e-commerce marketplace. | JavaScript |
-| **[Brundavan Constructions](https://github.com/Nanda1144/Brundavan-Constructions)** | Business-oriented responsive platform built for a construction firm. | JavaScript |
-| **[ACEM Mentor Mentee](https://github.com/Nanda1144/ACEM_mentor_mentee)** | Academic platform tracking the relationship between mentors and mentees in college. | JavaScript |
-| **[Golf Charity Subscription Platform](https://github.com/Nanda1144/golf-charity-subscription-platform-)** | Subscription-based platform aimed at charity events. | JavaScript |
-
-### 🎨 Frontend & Portfolio Designs
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[NandaKishoreC Portfolio](https://github.com/Nanda1144/nandakishorec)** | My personal professional portfolio website to showcase my achievements and work experience. | JavaScript / HTML / CSS |
-| **[Portfolio Admin Panel](https://github.com/Nanda1144/portfolioadmin-panel)** | A custom content management admin panel for maintaining portfolio dynamically. | JavaScript |
-| **[Portfolio Template](https://github.com/Nanda1144/Protofolio-template-)** | Reusable UI template structure for developer portfolios. | HTML / CSS |
-| **[Quizfy Website](https://github.com/Nanda1144/QUIZFY_WEBSITE_Javascript)** | Frontend interface for a quiz platform. | JavaScript |
-| **[Frontend Project](https://github.com/Nanda1144/Frontend-project)** | General frontend showcase featuring various responsive concepts. | HTML / CSS / JS |
-| **[Counter](https://github.com/Nanda1144/counter)** | Simple frontend counter functionality. | JavaScript |
+Currently, I'm focused on developing impactful applications that combine modern web technologies with Artificial Intelligence and decentralized systems.
 
 ---
 
-## 🔭 Current Focus
+## 🚀 What I Do
 
-*   🎓 Pursuing my **B.Tech in Computer Science and Engineering (Artificial Intelligence)** at Aditya College of Engineering Madanapalle.
-*   🧠 Working extensively on **Generative AI** concepts and exploring **AI-driven workflows**, specifically focusing on Large Language Models (LLMs).
-*   🏆 Actively participating in national-level hackathons and building robust AI and full-stack projects to solve complex challenges.
+✔️ Build Full Stack Web Applications
 
----
+✔️ Develop AI-powered Applications using LLMs
 
-## 🛠️ Tech Stack
+✔️ Create Blockchain & Smart Contract Solutions
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✔️ Design REST APIs & Backend Systems
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+✔️ Build Responsive UI using React
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=routing&logoColor=white)
-
-### 📊 Data Science / ML
-![Gen AI](https://img.shields.io/badge/Gen_AI-FF9900?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0078D4?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-
-### 🗄️ Database & Blockchain
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+✔️ Learn Emerging Technologies
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Working On
 
-<div align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats/actions/workflows/main.yml/badge.svg" style="display: none;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nanda1144&show_icons=true&theme=radical&hide_border=true" alt="Nanda Kishore's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanda1144&theme=radical&hide_border=true" alt="Nanda Kishore's GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanda1144&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+- 🤖 Generative AI Applications
+- 🧠 Large Language Models (LLMs)
+- 💬 Prompt Engineering
+- 🌐 Full Stack Development
+- ⛓ Blockchain & Web3 Development
+- 📚 Data Structures & System Design
 
 ---
 
-## 📫 Connect with Me
+# 🎯 Career Objective
 
-<div align="center">
-  <a href="mailto:nandalearner12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/NandaKishorec">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://nandakishorec.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+I aspire to become a Software Engineer capable of designing scalable, intelligent, and impactful software products that bridge Artificial Intelligence, Cloud Computing, and Blockchain technologies.
 
+My goal is to contribute to innovative products while continuously learning and embracing new technologies.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/nandakishorec">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nandalearner12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nanda1144">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://nandakishorec.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+---
+
+## ⚙ Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Large_Language_Models-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-00ACC1?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⛓ Blockchain
+
+<p>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
+
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Developer Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
+</p>
+
+---
+
+⭐ **Next:** Part 2 will include:
+
+- 🏢 Professional Experience Timeline
+- 🎓 Education
+- 🏆 Achievements
+- 📜 Certifications
+- 📈 Coding Journey
+- 📚 Currently Learning
+- 🎯 Areas of Interest
+
+This will make your README look like a premium GitHub profile.
