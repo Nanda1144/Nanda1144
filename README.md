@@ -49,21 +49,6 @@
 
 🌱 Exploring AI Agents, LangChain & Cloud Technologies
 
-<br><br><br><br><br><br><br><br>
-
----
-
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nanda1144&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/Nanda1144?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Nanda1144?style=for-the-badge"/>
-
-</div>
-
 ---
 
 # ⚡ Quick Overview
@@ -430,14 +415,6 @@ AI Solutions Architect
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=7F00FF&center=true&width=700&lines=Building+Today...;Innovating+Tomorrow...;Learning+Forever..."/>
-
-</div>
-
----
 <!-- ===================================================== -->
 <!--                🚀 FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
@@ -445,8 +422,6 @@ AI Solutions Architect
 <div align="center">
 
 # 🚀 Featured Projects
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Building+Real-World+Software;Full+Stack+%7C+Artificial+Intelligence+%7C+Blockchain;Click+on+any+project+to+explore+👇"/>
 
 </div>
 
@@ -656,6 +631,33 @@ github.com/Nanda1144/study2skills
 
 <summary>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&color=00E676&center=true&width=700&lines=Click+on+any+project+to+view+its+details;Always+Building+•+Always+Learning+🚀"/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--         BLOCKCHAIN • FRONTEND • BACKEND PROJECTS      -->
+<!-- ===================================================== -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Blockchain & Web3
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=850&lines=Decentralized+Applications;Smart+Contracts;Ethereum+%7C+Solidity+%7C+Web3"/>
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
 # ⛓ DeFi Lending Platform ⭐
 
 ### Blockchain Application
@@ -709,94 +711,6 @@ github.com/Nanda1144/Defi-Lending-Platform-
 ### ⭐ Status
 
 🟢 Completed
-
-</details>
-
----
-
-<div align="center">
-
-## 📊 Project Highlights
-
-| Category | Count |
-|:---------|------:|
-| 🌐 Full Stack | 6+ |
-| 🤖 AI Projects | 5+ |
-| ⛓ Blockchain | 2+ |
-| 🎨 Frontend | 10+ |
-| ⚙ Backend | 5+ |
-| 💻 Total Projects | 25+ |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&color=00E676&center=true&width=700&lines=Click+on+any+project+to+view+its+details;Always+Building+•+Always+Learning+🚀"/>
-
-</div>
-
----
-<!-- ===================================================== -->
-<!--         BLOCKCHAIN • FRONTEND • BACKEND PROJECTS      -->
-<!-- ===================================================== -->
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Blockchain & Web3
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=850&lines=Decentralized+Applications;Smart+Contracts;Ethereum+%7C+Solidity+%7C+Web3"/>
-
-</div>
-
----
-
-<details open>
-
-<summary>
-
-## ⛓️ DeFi Lending Platform ⭐ Featured
-
-</summary>
-
-### 📌 Overview
-
-A decentralized lending protocol enabling users to lend and borrow digital assets securely through Ethereum smart contracts without intermediaries.
-
----
-
-### ✨ Key Features
-
-- 💰 Crypto Lending
-- 💳 Borrowing System
-- 🔐 Smart Contracts
-- 👛 Wallet Integration
-- 📊 Transaction History
-- ⚡ Ethereum Network
-- 🛡 Secure Asset Management
-
----
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=solidity,react"/>
-
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
-
-<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🔗 Repository
-
-```text
-github.com/Nanda1144/Defi-Lending-Platform-
-```
 
 </details>
 
@@ -1162,14 +1076,6 @@ Backend-driven marketplace application implementing scalable APIs, user authenti
 | ⚙ Backend | **5+** |
 | 🏆 Hackathon Projects | **4+** |
 | 💻 Total Projects | **25+** |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C6FF&center=true&width=800&lines=Building+Tomorrow's+Technology;Always+Learning+•+Always+Creating;Turning+Ideas+Into+Reality+🚀"/>
 
 </div>
 
