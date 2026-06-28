@@ -226,144 +226,6 @@ My goal is to contribute to innovative products while continuously learning and 
 - Collaborated on real-world development tasks.
 
 ---
-
-# 🎓 Education
-
-## 🎓 Bachelor of Technology
-
-**Computer Science & Engineering (Artificial Intelligence)**
-
-🏫 Aditya College of Engineering, Madanapalle
-
-📅 Aug 2023 – Present
-
-📊 CGPA / Percentage
-
-**86.02%**
-
----
-
-## Higher Secondary Education
-
-Krishna Reddy Siddhartha Junior College
-
-Percentage: **87.4%**
-
----
-
-## Secondary School
-
-Brilliant English Medium High School
-
-Percentage: **99%**
-
----
-
-# 🏆 Achievements
-
-🥇 Department Topper (First Year)
-
-🏆 Coordinator – HACKSPRINT (12 Hour National Hackathon)
-
-🥇 1st Prize – Paper Presentation (Sai Sankethika 2K25)
-
-🚀 Semi Finalist – Amaravati Quantum Valley Hackathon
-
-🎖 Campus Student Ambassador – MyGrow
-
-🏅 Certified by Edunet Foundation (IR 4.0)
-
----
-
-# 📜 Certifications
-
-✔ Introduction to Large Language Models
-
-✔ Responsible AI – Google Cloud
-
-✔ Prompt Design in Vertex AI
-
-✔ Introduction to Generative AI
-
-✔ IR 4.0 – Edunet Foundation
-
----
-
-# 🚀 Current Focus
-
-Currently focusing on:
-
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 💬 Prompt Engineering
-- 🌐 Full Stack Development
-- ⚛ React Ecosystem
-- ⚙ Backend Architecture
-- ⛓ Blockchain & Smart Contracts
-- ☁ Cloud Deployment
-- 📈 Building Production Ready Applications
-
----
-
-# 🎯 Areas of Interest
-
-💻 Full Stack Development
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-⚡ Generative AI
-
-🔗 Blockchain
-
-🌍 Web3
-
-☁ Cloud Computing
-
-📱 Software Engineering
-
-📊 System Design
-
----
-
-# 📈 My Learning Roadmap
-
-✅ Full Stack Development
-
-✅ REST APIs
-
-✅ MongoDB
-
-✅ Solidity
-
-✅ React.js
-
-✅ Node.js
-
-🔄 Advanced AI Agents
-
-🔄 Multi-Agent Systems
-
-🔄 RAG Applications
-
-🔄 LangChain
-
-🔄 Vector Databases
-
-🔄 Docker
-
-🔄 Kubernetes
-
-🔄 AWS Cloud
-
----
-
-# 💡 Development Philosophy
-
-> "Technology should solve real-world problems while creating meaningful experiences for people."
-
----
 ---
 
 # 🚀 Featured Projects
@@ -514,6 +376,145 @@ Coming Soon...
 - Backend APIs
 
 - Open Source Contributions
+---
+
+# 🎓 Education
+
+## 🎓 Bachelor of Technology
+
+**Computer Science & Engineering (Artificial Intelligence)**
+
+🏫 Aditya College of Engineering, Madanapalle
+
+📅 Aug 2023 – Present
+
+📊 CGPA / Percentage
+
+**86.02%**
+
+---
+
+## Higher Secondary Education
+
+Krishna Reddy Siddhartha Junior College
+
+Percentage: **87.4%**
+
+---
+
+## Secondary School
+
+Brilliant English Medium High School
+
+Percentage: **99%**
+
+---
+
+# 🏆 Achievements
+
+🥇 Department Topper (First Year)
+
+🏆 Coordinator – HACKSPRINT (12 Hour National Hackathon)
+
+🥇 1st Prize – Paper Presentation (Sai Sankethika 2K25)
+
+🚀 Semi Finalist – Amaravati Quantum Valley Hackathon
+
+🎖 Campus Student Ambassador – MyGrow
+
+🏅 Certified by Edunet Foundation (IR 4.0)
+
+---
+
+# 📜 Certifications
+
+✔ Introduction to Large Language Models
+
+✔ Responsible AI – Google Cloud
+
+✔ Prompt Design in Vertex AI
+
+✔ Introduction to Generative AI
+
+✔ IR 4.0 – Edunet Foundation
+
+---
+
+# 🚀 Current Focus
+
+Currently focusing on:
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 💬 Prompt Engineering
+- 🌐 Full Stack Development
+- ⚛ React Ecosystem
+- ⚙ Backend Architecture
+- ⛓ Blockchain & Smart Contracts
+- ☁ Cloud Deployment
+- 📈 Building Production Ready Applications
+
+---
+
+# 🎯 Areas of Interest
+
+💻 Full Stack Development
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+⚡ Generative AI
+
+🔗 Blockchain
+
+🌍 Web3
+
+☁ Cloud Computing
+
+📱 Software Engineering
+
+📊 System Design
+
+---
+
+# 📈 My Learning Roadmap
+
+✅ Full Stack Development
+
+✅ REST APIs
+
+✅ MongoDB
+
+✅ Solidity
+
+✅ React.js
+
+✅ Node.js
+
+🔄 Advanced AI Agents
+
+🔄 Multi-Agent Systems
+
+🔄 RAG Applications
+
+🔄 LangChain
+
+🔄 Vector Databases
+
+🔄 Docker
+
+🔄 Kubernetes
+
+🔄 AWS Cloud
+
+---
+
+# 💡 Development Philosophy
+
+> "Technology should solve real-world problems while creating meaningful experiences for people."
+
+---
 
 ---
 
