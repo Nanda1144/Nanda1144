@@ -183,14 +183,419 @@ My goal is to contribute to innovative products while continuously learning and 
 
 ---
 
-⭐ **Next:** Part 2 will include:
+---
 
-- 🏢 Professional Experience Timeline
-- 🎓 Education
-- 🏆 Achievements
-- 📜 Certifications
-- 📈 Coding Journey
-- 📚 Currently Learning
-- 🎯 Areas of Interest
+# 👨‍💼 Professional Experience
 
-This will make your README look like a premium GitHub profile.
+## 💼 Generative AI Intern
+### SkillDzire | Apr 2026 – Present
+
+- 🤖 Working with Large Language Models (LLMs) and Generative AI technologies.
+- 🧠 Building AI-powered applications using Prompt Engineering techniques.
+- ⚡ Exploring AI workflows, automation, and modern AI tools.
+- 🚀 Learning best practices for deploying AI solutions.
+
+---
+
+## ⛓ Blockchain Developer Intern
+### Alpha Innovations | Jan 2026 – Mar 2026
+
+- Developed practical knowledge of Blockchain ecosystems.
+- Worked on Smart Contract concepts.
+- Learned Web3 architecture and decentralized application workflows.
+- Explored Solidity fundamentals and blockchain security.
+
+---
+
+## 🌐 Frontend Developer Intern
+### Snestron Systems Pvt. Ltd. | Jul 2025 – Sep 2025
+
+- Built responsive websites using HTML, CSS and JavaScript.
+- Improved website performance and UI responsiveness.
+- Developed reusable frontend components.
+- Learned collaborative development using Git & GitHub.
+
+---
+
+## 💻 Web Development Intern
+### Cognifyz Technologies | Mar 2025 – Apr 2025
+
+- Developed responsive web pages.
+- Worked on frontend development projects.
+- Improved understanding of UI/UX principles.
+- Collaborated on real-world development tasks.
+
+---
+
+# 🎓 Education
+
+## 🎓 Bachelor of Technology
+
+**Computer Science & Engineering (Artificial Intelligence)**
+
+🏫 Aditya College of Engineering, Madanapalle
+
+📅 Aug 2023 – Present
+
+📊 CGPA / Percentage
+
+**86.02%**
+
+---
+
+## Higher Secondary Education
+
+Krishna Reddy Siddhartha Junior College
+
+Percentage: **87.4%**
+
+---
+
+## Secondary School
+
+Brilliant English Medium High School
+
+Percentage: **99%**
+
+---
+
+# 🏆 Achievements
+
+🥇 Department Topper (First Year)
+
+🏆 Coordinator – HACKSPRINT (12 Hour National Hackathon)
+
+🥇 1st Prize – Paper Presentation (Sai Sankethika 2K25)
+
+🚀 Semi Finalist – Amaravati Quantum Valley Hackathon
+
+🎖 Campus Student Ambassador – MyGrow
+
+🏅 Certified by Edunet Foundation (IR 4.0)
+
+---
+
+# 📜 Certifications
+
+✔ Introduction to Large Language Models
+
+✔ Responsible AI – Google Cloud
+
+✔ Prompt Design in Vertex AI
+
+✔ Introduction to Generative AI
+
+✔ IR 4.0 – Edunet Foundation
+
+---
+
+# 🚀 Current Focus
+
+Currently focusing on:
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 💬 Prompt Engineering
+- 🌐 Full Stack Development
+- ⚛ React Ecosystem
+- ⚙ Backend Architecture
+- ⛓ Blockchain & Smart Contracts
+- ☁ Cloud Deployment
+- 📈 Building Production Ready Applications
+
+---
+
+# 🎯 Areas of Interest
+
+💻 Full Stack Development
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+⚡ Generative AI
+
+🔗 Blockchain
+
+🌍 Web3
+
+☁ Cloud Computing
+
+📱 Software Engineering
+
+📊 System Design
+
+---
+
+# 📈 My Learning Roadmap
+
+✅ Full Stack Development
+
+✅ REST APIs
+
+✅ MongoDB
+
+✅ Solidity
+
+✅ React.js
+
+✅ Node.js
+
+🔄 Advanced AI Agents
+
+🔄 Multi-Agent Systems
+
+🔄 RAG Applications
+
+🔄 LangChain
+
+🔄 Vector Databases
+
+🔄 Docker
+
+🔄 Kubernetes
+
+🔄 AWS Cloud
+
+---
+
+# 💡 Development Philosophy
+
+> "Technology should solve real-world problems while creating meaningful experiences for people."
+
+---
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Full Stack Development
+
+### 🎉 Fusion2K26
+
+> College Event Management Platform
+
+### Features
+
+- Online Registration
+- Secure Payment Gateway
+- Food Coupon Management
+- Certificate Generation
+- Admin Dashboard
+- Student Dashboard
+- Event Management
+- QR Verification
+- User Authentication
+
+### Tech Stack
+
+React.js
+
+Node.js
+
+MongoDB
+
+Express.js
+
+Vercel
+
+---
+
+### 🎓 Study2Skills
+
+> AI Powered Career Guidance Platform
+
+### Features
+
+- Resume Builder
+- AI Career Roadmap
+- Mock Interviews
+- Project Suggestions
+- Learning Resources
+- Career Guidance
+- Authentication
+- User Dashboard
+
+### Tech Stack
+
+React.js
+
+Node.js
+
+MongoDB
+
+REST APIs
+
+---
+
+## 🤖 Artificial Intelligence & LLM Projects
+
+### 🥗 NutriVedha
+
+> AI Healthcare Assistant
+
+### Features
+
+🤖 AI Chatbot
+
+🎤 Voice Assistant
+
+🌐 Multilingual Support
+
+🥗 Personalized Diet Plans
+
+👨‍⚕️ Teleconsultation
+
+🍲 AI Cooking Assistant
+
+🧠 AI Recommendation Engine
+
+### Technologies
+
+React.js
+
+Python
+
+AI APIs
+
+LLMs
+
+Speech Recognition
+
+Text to Speech
+
+---
+
+## ⛓ Blockchain & Web3
+
+### 💰 DeFi Lending Platform
+
+> Decentralized Lending Application
+
+### Features
+
+✔ Smart Contracts
+
+✔ Collateral Locking
+
+✔ Loan Creation
+
+✔ Automatic Repayment
+
+✔ Penalty Management
+
+✔ Transparent Transactions
+
+✔ Wallet Integration
+
+### Technologies
+
+Solidity
+
+Ethereum
+
+React.js
+
+MetaMask
+
+Web3.js
+
+---
+
+# 🛠 Other Academic Projects
+
+Coming Soon...
+
+- AI Automation Projects
+
+- Blockchain Experiments
+
+- React UI Libraries
+
+- Backend APIs
+
+- Open Source Contributions
+
+---
+
+# 🏆 Major Project Highlights
+
+| Project | Domain | Status |
+|----------|----------|---------|
+| Fusion2K26 | Full Stack | ✅ Completed |
+| Study2Skills | Full Stack + AI | ✅ Completed |
+| NutriVedha | AI + Healthcare | ✅ Completed |
+| DeFi Lending Platform | Blockchain | ✅ Completed |
+
+---
+
+# 📊 Technology Distribution
+
+```
+Frontend Development
+██████████████████████
+
+Backend Development
+█████████████████
+
+Artificial Intelligence
+██████████████████
+
+Blockchain
+██████████████
+
+Database
+██████████████
+
+Cloud Deployment
+██████████
+```
+
+---
+
+# 🎯 Future Projects
+
+🚀 AI SaaS Platform
+
+🚀 Multi Agent AI System
+
+🚀 Blockchain Marketplace
+
+🚀 RAG Chatbot
+
+🚀 AI Resume Analyzer
+
+🚀 AI Interview Platform
+
+🚀 Developer Productivity Tools
+
+---
+
+# 🤝 Open Source Goals
+
+✔ Contribute to React
+
+✔ Contribute to Node.js
+
+✔ Contribute to LangChain
+
+✔ Contribute to AI Open Source Projects
+
+✔ Build Community Projects
+
+✔ Mentor Beginner Developers
+
+---
+
+# ⭐ Quote
+
+> **"Code. Learn. Build. Share. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+### 🚀 Happy Coding!
+
+</div>
