@@ -8,15 +8,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="assets/profile.png"
-width="190"
-style="border-radius:50%;border:5px solid #4F46E5"/>
-
-</div>
 
 ---
 
@@ -30,21 +21,7 @@ style="border-radius:50%;border:5px solid #4F46E5"/>
 
 ---
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Artificial+Intelligence+Student;Generative+AI+Developer;Blockchain+Developer;React+Developer;Node.js+Backend+Developer;Building+Scalable+Software;Always+Learning+Something+New🚀"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-
-</div>
-
----
 
 # 🚀 About Me
 
@@ -76,29 +53,6 @@ style="border-radius:50%;border:5px solid #4F46E5"/>
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:nandalearner12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/NandaKishorec">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://nandakishorec.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Nanda1144">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
@@ -131,29 +85,7 @@ style="border-radius:50%;border:5px solid #4F46E5"/>
 
 ---
 
-# 💡 What I Love Building
 
-<div align="center">
-
-🌐 Full Stack Applications
-
-🤖 AI Powered Products
-
-⛓ Blockchain Solutions
-
-📱 Modern Web Applications
-
-⚙ Backend APIs
-
-☁ Cloud Ready Systems
-
-🧠 AI Agents
-
-🚀 Innovative Software
-
-</div>
-
----
 
 <div align="center">
 
@@ -196,15 +128,6 @@ style="border-radius:50%;border:5px solid #4F46E5"/>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nanda1144&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 📑 GitHub Profile Summary
 
@@ -217,18 +140,6 @@ style="border-radius:50%;border:5px solid #4F46E5"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanda1144&theme=tokyonight"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanda1144&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-> ⚠️ **Note:** Configure the GitHub Action from **Platane/snk** so this animation is generated automatically.
-
-<img src="https://raw.githubusercontent.com/Nanda1144/Nanda1144/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
@@ -248,88 +159,8 @@ Every project I develop is an opportunity to improve my technical skills, explor
 
 ---
 
-# 🌱 2026 Learning Goals
 
-<div align="center">
 
-| Goal | Progress |
-|------|:--------:|
-| ✅ Advanced React | ██████████ 100% |
-| ✅ Backend Development | ██████████ 100% |
-| ✅ MongoDB | ██████████ 100% |
-| 🔄 Generative AI | ████████░░ 80% |
-| 🔄 LangChain | ██████░░░░ 60% |
-| 🔄 LangGraph | █████░░░░░ 50% |
-| 🔄 AI Agents | █████░░░░░ 50% |
-| 🔄 Docker | ████░░░░░░ 40% |
-| 🔄 Kubernetes | ███░░░░░░░ 30% |
-| 🎯 AWS Cloud | ██░░░░░░░░ 20% |
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:nandalearner12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/NandaKishorec">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://nandakishorec.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Nanda1144">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 💖 Support My Work
-
-<div align="center">
-
-⭐ Star repositories that you find useful.
-
-🍴 Fork projects to build upon them.
-
-🤝 Feel free to collaborate on innovative ideas.
-
-💬 I'm always open to discussing **Full Stack Development**, **Artificial Intelligence**, **Blockchain**, and **Open Source**.
-
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 Visitor Counter
-
-<img src="https://komarev.com/ghpvc/?username=Nanda1144&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
-
-# ⭐ Thanks for Visiting My GitHub Profile!
-
-### 🚀 *Code • Learn • Build • Innovate • Share*
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together.;Happy+Coding!+🚀"/>
-
-</div>
 
 <!-- ===================================================== -->
 <!--              PROFESSIONAL JOURNEY                      -->
@@ -608,14 +439,14 @@ AI Solutions Architect
 
 ---
 <!-- ===================================================== -->
-<!--                FEATURED PROJECTS                       -->
+<!--                🚀 FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Featured Projects
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Transforming+Ideas+Into+Software;Building+Scalable+Applications;Full+Stack+%7C+Artificial+Intelligence+%7C+Blockchain"/>
+# 🚀 Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Building+Real-World+Software;Full+Stack+%7C+Artificial+Intelligence+%7C+Blockchain;Click+on+any+project+to+explore+👇"/>
 
 </div>
 
@@ -623,19 +454,9 @@ AI Solutions Architect
 
 <div align="center">
 
-| 🌐 Full Stack | 🤖 AI | ⛓ Blockchain | 🎨 Frontend | ⚙ Backend |
-|:-------------:|:------:|:------------:|:-----------:|:---------:|
-| 6+ Projects | 5+ Projects | 2+ Projects | 10+ Projects | 5+ Projects |
-
-</div>
-
----
-
-# 🌐 Full Stack Development
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=900&color=4CAF50&center=true&width=700&lines=Building+Scalable+Full+Stack+Applications"/>
+| 🌐 Full Stack | 🤖 AI & LLM | ⛓ Blockchain | 🎨 Frontend | ⚙ Backend |
+|:-------------:|:----------:|:------------:|:-----------:|:---------:|
+| **6+** | **5+** | **2+** | **10+** | **5+** |
 
 </div>
 
@@ -645,35 +466,62 @@ AI Solutions Architect
 
 <summary>
 
-## 🚀 ACEM Fusion 2K26 ⭐ Featured
+# 🌐 ACEM Fusion 2K26 ⭐
+
+### Complete Event Management Platform
+
+<img src="https://img.shields.io/badge/Click%20to%20Expand-0078D4?style=for-the-badge"/>
 
 </summary>
 
-### 📌 Description
+---
 
-A complete **Event Management Platform** developed for ACEM to manage registrations, payments, QR verification, certificates, food coupons, and administration for **3000+ participants**.
+### 📌 Overview
 
-### ✨ Features
+A scalable event management platform designed for **3000+ participants**, handling registrations, payments, certificates, food coupons, and event administration.
 
-- 👤 User Authentication
-- 💳 Payment Integration
-- 📜 Certificate Generation
-- 📱 QR Verification
-- 🍱 Food Coupons
-- 📊 Admin Dashboard
-- 📈 Analytics
-- 🔒 Secure Database
+---
+
+### ✨ Key Features
+
+✅ User Authentication
+
+✅ Payment Gateway
+
+✅ QR Verification
+
+✅ Food Coupons
+
+✅ Certificate Generation
+
+✅ Admin Dashboard
+
+✅ Analytics
+
+---
 
 ### 🛠 Tech Stack
 
+<p>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
-### 🔗 Repository
+</p>
+
+---
+
+### 📂 Repository
 
 ```text
 github.com/Nanda1144/ACEM_FUSION_2K26
 ```
 
+---
+
+### ⭐ Status
+
+🟢 Completed
+
 </details>
 
 ---
@@ -682,62 +530,123 @@ github.com/Nanda1144/ACEM_FUSION_2K26
 
 <summary>
 
-## 🎓 Study2Skills ⭐ Featured
+# 🤖 NutriVedha ⭐
+
+### AI Powered Healthcare Assistant
+
+<img src="https://img.shields.io/badge/Click%20to%20Expand-success?style=for-the-badge"/>
 
 </summary>
 
-### 📌 Description
+---
 
-AI-powered Career Guidance Platform helping students with roadmaps, resume building, interview preparation, project recommendations, and career planning.
+### 📌 Overview
+
+An AI-powered healthcare assistant that provides personalized diet planning, multilingual conversations, AI chatbot support, and voice interaction.
+
+---
 
 ### ✨ Features
 
-- 📄 Resume Builder
-- 🤖 AI Career Guidance
-- 🎯 Learning Roadmaps
-- 💬 Mock Interviews
-- 📚 Learning Resources
-- 📈 Dashboard
+🤖 AI Chatbot
+
+🎤 Voice Assistant
+
+🌍 Multilingual Support
+
+🥗 Diet Planning
+
+👨‍⚕️ Health Recommendations
+
+🍲 Recipe Generator
+
+---
 
 ### 🛠 Tech Stack
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,python"/>
+
+<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6B00?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📂 Repository
+
+```text
+github.com/Nanda1144/NutriVedha
+```
+
+---
+
+### ⭐ Status
+
+🟢 Active Development
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🎓 Study2Skills ⭐
+
+### Career Guidance Platform
+
+<img src="https://img.shields.io/badge/Click%20to%20Expand-orange?style=for-the-badge"/>
+
+</summary>
+
+---
+
+### 📌 Overview
+
+A career guidance platform helping students build resumes, prepare for interviews, explore learning roadmaps, and receive AI-powered recommendations.
+
+---
+
+### ✨ Features
+
+📄 Resume Builder
+
+🎯 Career Roadmaps
+
+💬 Mock Interviews
+
+📚 Learning Resources
+
+🤖 AI Suggestions
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
 
-### 🔗 Repository
+</p>
+
+---
+
+### 📂 Repository
 
 ```text
 github.com/Nanda1144/study2skills
 ```
 
-</details>
-
 ---
 
-<details>
+### ⭐ Status
 
-<summary>
-
-## 🏗 Brundavan Constructions
-
-</summary>
-
-### 📌 Description
-
-A modern responsive business website developed for a construction company with service showcase and inquiry management.
-
-### Features
-
-- Responsive UI
-
-- Modern Design
-
-- Contact Forms
-
-- SEO Friendly
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+🟢 Ongoing
 
 </details>
 
@@ -747,161 +656,76 @@ A modern responsive business website developed for a construction company with s
 
 <summary>
 
-## 🛒 Market MVP v2
+# ⛓ DeFi Lending Platform ⭐
+
+### Blockchain Application
+
+<img src="https://img.shields.io/badge/Click%20to%20Expand-purple?style=for-the-badge"/>
 
 </summary>
 
-### Features
-
-- Product Management
-
-- Authentication
-
-- REST APIs
-
-- Admin Dashboard
-
-- Database Integration
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
-
-</details>
-
 ---
 
-# 🤖 Artificial Intelligence & Generative AI
+### 📌 Overview
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=FF9800&center=true&width=800&lines=Creating+Intelligent+Applications;Powered+by+LLMs+%26+Generative+AI"/>
-
-</div>
+A decentralized finance application enabling secure lending and borrowing through Ethereum smart contracts.
 
 ---
-
-<details open>
-
-<summary>
-
-## 🥗 NutriVedha ⭐ Featured
-
-</summary>
-
-### 📌 Description
-
-AI-powered healthcare assistant providing personalized diet planning, multilingual support, AI chatbot, and voice interaction.
 
 ### ✨ Features
 
-- 🤖 AI Chatbot
+💰 Lending
 
-- 🎤 Voice Assistant
+💳 Borrowing
 
-- 🌍 Multilingual Support
+🔐 Smart Contracts
 
-- 🥗 Personalized Diet Plans
+👛 Wallet Integration
 
-- 👨‍⚕️ Health Recommendations
+⚡ Ethereum
 
-- 🍲 Recipe Suggestions
+---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,python"/>
+<p>
 
-<img src="https://img.shields.io/badge/Generative_AI-FF6B00?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=solidity,react"/>
 
-<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📂 Repository
+
+```text
+github.com/Nanda1144/Defi-Lending-Platform-
+```
+
+---
+
+### ⭐ Status
+
+🟢 Completed
 
 </details>
 
 ---
-
-<details>
-
-<summary>
-
-## 💻 AI Code Debugger Assistant
-
-</summary>
-
-### Features
-
-- 🔍 Code Analysis
-
-- 🛠 Bug Detection
-
-- 💡 AI Suggestions
-
-- ⚡ Smart Debugging
-
-### Tech Stack
-
-JavaScript
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-## 💬 Customer Support Chatbot
-
-</summary>
-
-### Features
-
-- AI Conversation
-
-- Customer Support
-
-- FAQ Automation
-
-- Real-time Responses
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-## 🌐 FAQ Bot for Website
-
-</summary>
-
-### Features
-
-- Website Integration
-
-- AI Responses
-
-- Knowledge Base
-
-- Instant Answers
-
-</details>
-
----
-
-# 📈 Project Highlights
 
 <div align="center">
 
-| Achievement | Value |
-|-------------|------:|
-| 🚀 Total Projects | 25+ |
+## 📊 Project Highlights
+
+| Category | Count |
+|:---------|------:|
 | 🌐 Full Stack | 6+ |
-| 🤖 AI Applications | 5+ |
+| 🤖 AI Projects | 5+ |
 | ⛓ Blockchain | 2+ |
 | 🎨 Frontend | 10+ |
 | ⚙ Backend | 5+ |
-| 🏆 Hackathon Projects | 4+ |
+| 💻 Total Projects | 25+ |
 
 </div>
 
@@ -909,7 +733,7 @@ JavaScript
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00E676&center=true&width=700&lines=Building+Software+That+Makes+an+Impact;Always+Learning+•+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&color=00E676&center=true&width=700&lines=Click+on+any+project+to+view+its+details;Always+Building+•+Always+Learning+🚀"/>
 
 </div>
 
@@ -1350,3 +1174,90 @@ Backend-driven marketplace application implementing scalable APIs, user authenti
 </div>
 
 ---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nandalearner12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/NandaKishorec">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://nandakishorec.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Nanda1144">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:nandalearner12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/NandaKishorec">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://nandakishorec.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Nanda1144">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💖 Support My Work
+
+<div align="center">
+
+⭐ Star repositories that you find useful.
+
+🍴 Fork projects to build upon them.
+
+🤝 Feel free to collaborate on innovative ideas.
+
+💬 I'm always open to discussing **Full Stack Development**, **Artificial Intelligence**, **Blockchain**, and **Open Source**.
+
+</div>
+
+---
+
+<div align="center">
+
+## 👨‍💻 Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=Nanda1144&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
+
+# ⭐ Thanks for Visiting My GitHub Profile!
+
+### 🚀 *Code • Learn • Build • Innovate • Share*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together.;Happy+Coding!+🚀"/>
+
+</div>
+
